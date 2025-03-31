@@ -7,6 +7,7 @@ Here is a link to the Detectron2 Github page: https://github.com/facebookresearc
 
 The file videotest-cpu.py is the executable file, alternatively I have packaged it into an .exe file, which you can find here: 
 https://drive.google.com/file/d/1ktLEG_m7R4v1AUNbbE3kwysbVzWQhe-B/view?usp=drivesdk
+The EXE file requires no python installation or anaconda / detectron2 knowledge
 
 Videotest-cpu.py will only work in the detectron base folder.
 Clone Detectron2's repository into a folder and put the python file in the base "detectron2" folder for it to run properly.
