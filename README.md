@@ -6,7 +6,7 @@ take a baseline photo and detect slouching by various methods.
 Here is a link to the Detectron2 Github page: https://github.com/facebookresearch/detectron2
 
 The file videotest-cpu.py is the executable file, alternatively I have packaged it into an .exe file, which you can find here: 
-https://drive.google.com/file/d/1ktLEG_m7R4v1AUNbbE3kwysbVzWQhe-B/view?usp=drivesdk
+(https://drive.google.com/file/d/1Jo30CUF67dp-IdqYS32qc7HGWPwk4PFm/view?usp=drive_link)
 The EXE file requires no python installation or anaconda / detectron2 knowledge
 
 Videotest-cpu.py will only work in the detectron base folder.
